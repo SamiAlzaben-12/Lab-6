@@ -18,7 +18,7 @@
 //=====[Declaration of private defines]========================================
 
 #define DISPLAY_REFRESH_TIME_MS       1000
-#define ALARM_STATUS_REFRESH_TIME_MS  10000  // change to 60000 for submission
+#define ALARM_STATUS_REFRESH_TIME_MS  60000
 #define TEMPERATURE_WARNING_LIMIT     28.0f
 
 //=====[Declaration and initialization of public global objects]===============
